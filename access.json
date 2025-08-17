@@ -1,0 +1,16 @@
+{
+  "access": [
+    {
+      "token": "8303671390:AAHxjDO7oSuGTd6SUNwYyDFL5XpJXksSmcQ",
+      "userId": 7903962929,
+      "groupId": -1002673312182,
+      "ipWhitelist": [""]
+    },
+    {
+      "token": "TOKEN_LAIN",
+      "userId": 987654321,
+      "groupId": -100987654321,
+      "ipWhitelist": []
+    }
+  ]
+}
